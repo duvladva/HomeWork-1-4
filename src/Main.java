@@ -73,6 +73,7 @@ public class Main {
                 System.out.println("В году не существует месяца с таким номером.");
         }
 
+        System.out.println("Этот тест для ветки hw5.");
     }
 
 
